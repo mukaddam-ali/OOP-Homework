@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.bak
+
+# Ignore NuGet packages
+packages/
+
+# Ignore .DS_Store on macOS
+.DS_Store
