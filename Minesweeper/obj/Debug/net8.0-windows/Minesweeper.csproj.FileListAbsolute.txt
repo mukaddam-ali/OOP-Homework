@@ -1,0 +1,17 @@
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.Form1.resources
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.sourcelink.json
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.exe
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.deps.json
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\refint\Minesweeper.dll
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\aa332\Desktop\OOP Homework\Minesweeper\obj\Debug\net8.0-windows\ref\Minesweeper.dll
